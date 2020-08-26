@@ -1,0 +1,1 @@
+const multiplyAll = arr => int => arr.map(num => num * int)
